@@ -35,10 +35,6 @@ Cuando no estoy frente al código o en el laboratorio, dedico mi tiempo a:
 
 ### 📫 Conecta conmigo
 
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- [Mi Portafolio](https://tu-sitio-web.com)
-
----
-
+- [LinkedIn](www.linkedin.com/in/adrián-p-4a9644b)
 ---
 *README personalizado para perfil profesional.*
